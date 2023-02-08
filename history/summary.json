@@ -4,19 +4,19 @@
     "url": "https://ixyou.xstar.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/ixyou.xstar.repl.co.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 1933,
-    "timeWeek": 704,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 636,
+    "timeDay": 1381,
+    "timeWeek": 668,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 33
     }
   },
   {
