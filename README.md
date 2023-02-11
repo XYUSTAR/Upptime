@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 部分停机**
 
-This repository contains the open-source uptime monitor and status page for [WKONG1010](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [XYUSTAR](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/WKONG1010/Upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/WKONG1010/Upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/WKONG1010/Upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/WKONG1010/Upptime/actions?query=workflow%3A%22Response+Time+CI%22)
