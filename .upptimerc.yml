@@ -5,6 +5,8 @@ repo: Upptime # The name of this repository
 sites:
   - name: Alist
     url: https://ixyou.xstar.repl.co
+  - name: Google
+    url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
