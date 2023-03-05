@@ -1,29 +1,5 @@
 [
   {
-    "name": "Replit",
-    "url": "https://reader-replit.xarea.repl.co",
-    "icon": "https://icons.duckduckgo.com/ip3/reader-replit.xarea.repl.co.ico",
-    "slug": "replit",
-    "status": "down",
-    "uptime": "86.78%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "75.73%",
-    "uptimeMonth": "86.78%",
-    "uptimeYear": "86.78%",
-    "time": 1173,
-    "timeDay": 155,
-    "timeWeek": 298,
-    "timeMonth": 1173,
-    "timeYear": 1173,
-    "dailyMinutesDown": {
-      "2023-03-05": 34,
-      "2023-03-04": 1440,
-      "2023-03-03": 972,
-      "2023-02-13": 634,
-      "2023-02-12": 853
-    }
-  },
-  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -34,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 58,
-    "timeWeek": 115,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "time": 103,
+    "timeDay": 70,
+    "timeWeek": 111,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -52,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 357,
+    "time": 182,
+    "timeDay": 313,
     "timeWeek": 269,
-    "timeMonth": 189,
-    "timeYear": 180,
+    "timeMonth": 191,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 408,
-    "timeWeek": 312,
-    "timeMonth": 267,
-    "timeYear": 266,
+    "time": 267,
+    "timeDay": 365,
+    "timeWeek": 313,
+    "timeMonth": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
